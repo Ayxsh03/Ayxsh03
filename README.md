@@ -105,8 +105,7 @@ Chasing my dreams!
 </a>
 </br>
 
-[![Ayush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayxsh07&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+![AYUSH'S Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=ayxsh07&theme=dracula&link="https://www.github.com/Ayxsh03/") 
 
 
 </div>
