@@ -14,11 +14,11 @@
 
 <br/>
 
-<h1 align="center"> <b> Who am I?  </b> </h1>
+<h1 align="center"> <b> Hello!☺️  </b> </h1>
 
 <h4 align="center"> I’m Ayush <I> aka </I> Ayxsh03 :ghost: </h4>
 
-<h4 align="center"> Bodybuilding & Weightlifting :muscle:</h4>
+<h4 align="center"> Weights and Gym :muscle:</h4>
 <h4 align="center"> DSA | AI | ML  :face_in_clouds: </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Consistency is the KEY that can unlock your true potential"</i></b> </h4>
 <br></br>
