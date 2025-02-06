@@ -16,7 +16,7 @@
 
 <h1 align="center"> <b> Hello!☺️  </b> </h1>
 
-<h4 align="center"> I’m Ayush <I> aka </I> Ayxsh03 :ghost: </h4>
+<h4 align="center"> ✨I am Ayush Sai✨</h4>
 
 <h4 align="center"> Weights and Gym :muscle:</h4>
 <h4 align="center"> DSA | AI | ML  :face_in_clouds: </h4>
