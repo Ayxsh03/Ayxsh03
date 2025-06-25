@@ -1,6 +1,6 @@
 ### 
 
-<h2 align="center">Hello 👋! My name is Ayush Sai</h2>
+<h2 align="center">Hello!👋 My name is Ayush Sai</h2>
 
 ###
 
@@ -103,7 +103,7 @@
 
 </div>
 
-<br/>
+![snake gif](https://github.com/Ayxsh03/Ayxsh03/blob/output/github-snake-dark.svg)
 
 <p align="center">
   <a href="https://instagram.com/ayxsh07/" target="_blank" rel="noopener noreferrer">
